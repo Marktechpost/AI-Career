@@ -12,3 +12,5 @@ Find Tips, Preparation Materials, Interviews, Stories
 ▶ AI Interview Series #3: Explain Federated Learning [Full Details](https://www.marktechpost.com/2025/11/23/ai-interview-series-3-explain-federated-learning/) 
 
 ▶ AI Interview Series #4: Explain KV Caching [Full Details](https://www.marktechpost.com/2025/12/21/ai-interview-series-4-explain-kv-caching/) 
+
+▶ AI Interview Series #5: Prompt Caching [Full Details](https://www.marktechpost.com/2026/01/04/ai-interview-series-5-prompt-caching/) 
